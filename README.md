@@ -1,4 +1,6 @@
-![preview](http://alloyteam.github.io/AlloyFinger/alloyfinger.png)
+# Preview
+
+You can touch this → [http://alloyteam.github.io/AlloyFinger/](http://alloyteam.github.io/AlloyFinger/)
 
 # Install
 
@@ -16,19 +18,8 @@ npm install alloyfinger
 
 ### Omi Version:
 
-* [omi-finger](https://github.com/AlloyTeam/omix/tree/master/plugins/omi-finger)
+* [omi-finger](https://github.com/AlloyTeam/omi/tree/master/plugins/omi-finger)
 
-```js
-    render() {
-        return  `
-        <div>
-            <div omi-finger ref="touchArea" onTap="handleTap"  onSwipe="handleSwipe" >
-                Tap or Swipe Me!
-            </div>
-        </div>
-        `;
-    }
-```
 
 ### Pure JS:
 ```js
